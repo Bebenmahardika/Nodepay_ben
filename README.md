@@ -14,8 +14,8 @@ To get started with the Nodepay Airdrop Bot:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/dante4rt/nodepay-airdrop-bot.git
-    cd nodepay-airdrop-bot
+    git clone (https://github.com/Bebenmahardika/Nodepay_ben).git
+    cd Nodepay_ben
     ```
 
 2. Install the dependencies:
@@ -33,7 +33,7 @@ Before running the bot, you need to set up your configuration:
 To get your Bearer token:
 
 1. **Register for a Nodepay account**:
-   - Go to [Nodepay Registration Page](https://app.nodepay.ai/register?ref=3WZFKKi0Hbvi1sd) and sign up for an account.
+   - Go to [Nodepay Registration Page](https://app.nodepay.ai/register?ref=EVDVYj7WfM6oOEV) and sign up for an account.
 
 2. **Get your token**:
    - Open **DevTools** in your browser (right-click > Inspect or press `Ctrl+Shift+I`).
@@ -73,6 +73,11 @@ Only required if you choose to use proxies when running the bot.
   123.45.67.89:8080:username:password
   123.45.67.89:8080:username:password
   123.45.67.89:8080:username:password
+  ```
+- Add your Bot token For Repot to Telegram Bot:
+
+  ```text
+  nano src/telegramConfig.js
   ```
 
 ## Running the Bot
