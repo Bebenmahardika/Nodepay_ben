@@ -74,7 +74,7 @@ Only required if you choose to use proxies when running the bot.
   123.45.67.89:8080:username:password
   123.45.67.89:8080:username:password
   ```
-- Add your Bot token For Repot to Telegram Bot:
+- Add your Bot token For Report to Telegram Bot:
 
   ```text
   nano src/telegramConfig.js
